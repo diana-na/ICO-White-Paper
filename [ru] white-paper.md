@@ -1,4 +1,4 @@
-#<a name="index"></a> ZEN MINING PROJECT WHITE PAPER
+# <a name="index"></a>ZEN MINING PROJECT WHITE PAPER
 
 ##### [Предпосылки](#background)
 ##### [Решение](#solution)
