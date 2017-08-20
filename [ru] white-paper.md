@@ -1,4 +1,4 @@
-#ZEN MINING PROJECT WHITE PAPER
+# ZEN MINING PROJECT WHITE PAPER
 
 ## <a name="index"></a>Содержание
 ##### [Предпосылки](#background)
