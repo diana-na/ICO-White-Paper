@@ -1,6 +1,5 @@
-# ZEN MINING PROJECT WHITE PAPER
+#<a name="index"></a> ZEN MINING PROJECT WHITE PAPER
 
-## <a name="index"></a>Содержание
 ##### [Предпосылки](#background)
 ##### [Решение](#solution)
 ##### [Рынок](#market)
